@@ -8,3 +8,5 @@ ruch = ileruchu(zwykly_ruch, ile_cwiczen)
 dieta = jakadieta(wege, tlusto)
 
 #wyliczenie ryzyka problemów z sercem
+
+print("Nowe zmiany Beata")
