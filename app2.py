@@ -1,1 +1,1 @@
-print("Hej, co u Ciebie?")
+print("Hello Ilona")
